@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Emily Zhang",
+    "specialty": "Neurology",
+    "location": "Houston, TX",
+    "rating": 5.0,
+    "phone": "123-456-7890",
+    "email": "emily.zhang@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Dr. John Doe",
+    "specialty": "Cardiology",
+    "location": "New York, NY",
+    "rating": 4.5,
+    "phone": "234-567-8901",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sarah Lee",
+    "specialty": "Dermatology",
+    "location": "Los Angeles, CA",
+    "rating": 4.2,
+    "phone": "345-678-9012",
+    "email": "sarah.lee@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Michael Smith",
+    "specialty": "Pediatrics",
+    "location": "Chicago, IL",
+    "rating": 4.8,
+    "phone": "456-789-0123",
+    "email": "michael.smith@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Linda Nguyen",
+    "specialty": "Orthopedics",
+    "location": "Dallas, TX",
+    "rating": 4.9,
+    "phone": "567-890-1234",
+    "email": "linda.nguyen@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Emma Wilson",
+    "specialty": "Endocrinology",
+    "location": "San Francisco, CA",
+    "rating": 4.4,
+    "phone": "678-901-2345",
+    "email": "emma.wilson@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Dr. David Kim",
+    "specialty": "Oncology",
+    "location": "Miami, FL",
+    "rating": 4.7,
+    "phone": "789-012-3456",
+    "email": "david.kim@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Jessica Brown",
+    "specialty": "Gastroenterology",
+    "location": "Seattle, WA",
+    "rating": 4.6,
+    "phone": "890-123-4567",
+    "email": "jessica.brown@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Henry Johnson",
+    "specialty": "Radiology",
+    "location": "Phoenix, AZ",
+    "rating": 4.5,
+    "phone": "901-234-5678",
+    "email": "henry.johnson@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Olivia Davis",
+    "specialty": "Neurology",
+    "location": "Boston, MA",
+    "rating": 4.9,
+    "phone": "012-345-6789",
+    "email": "olivia.davis@example.com"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Samuel Martinez",
+    "specialty": "Ophthalmology",
+    "location": "San Diego, CA",
+    "rating": 4.3,
+    "phone": "123-456-7891",
+    "email": "samuel.martinez@example.com"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Grace Patel",
+    "specialty": "Urology",
+    "location": "Austin, TX",
+    "rating": 4.6,
+    "phone": "234-567-8902",
+    "email": "grace.patel@example.com"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Alex Carter",
+    "specialty": "Neurology",
+    "location": "Denver, CO",
+    "rating": 4.7,
+    "phone": "345-678-9013",
+    "email": "alex.carter@example.com"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Ryan Moore",
+    "specialty": "Dermatology",
+    "location": "Orlando, FL",
+    "rating": 4.5,
+    "phone": "456-789-0124",
+    "email": "ryan.moore@example.com"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Evelyn Anderson",
+    "specialty": "Cardiology",
+    "location": "Philadelphia, PA",
+    "rating": 4.9,
+    "phone": "567-890-1235",
+    "email": "evelyn.anderson@example.com"
+  }
+]
